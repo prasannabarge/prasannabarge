@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **Devops**
 
 - 📫 How to reach me **prasannabarge.dev@gmail.com**
 
