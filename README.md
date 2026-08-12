@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Turning+raw+data+into+business+decisions;Bridging+the+gap+between+Data+%26+Strategy;Aspiring+Product+Manager+%7C+Data-Driven+Thinker;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Agile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Turning+raw+data+into+business+decisions;Bridging+the+gap+between+Data+%26+Strategy;" alt="Typing SVG" />
 </a>
 
 <br/>
